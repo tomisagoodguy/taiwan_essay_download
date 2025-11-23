@@ -423,3 +423,7 @@
 /record?r1=137&h1=0
 /record?r1=140&h1=0
 /record?r1=143&h1=0
+/record?r1=10&h1=0
+/record?r1=16&h1=0
+/record?r1=27&h1=0
+/record?r1=28&h1=0
